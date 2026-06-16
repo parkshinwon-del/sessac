@@ -21,3 +21,16 @@ _박신원_ 입니다.
 ~~반가워요~~
 
 'function add(x,y){ return x+y}'
+
+'''python
+number = input("정수입력>")
+number = int(number)
+
+if number>-:
+    print("양수")
+if number<0:
+    print("음수")
+if number==0
+   print("0입니다.")
+'''
+   
